@@ -6,6 +6,7 @@ CONTENTS OF THIS FILE
  🚀 Starting the Application
  
  🚀 Using the Application
+ 
  🚀 Files Used in Framework
 
 
@@ -18,14 +19,23 @@ If you aren't using Homestead, you will need to ensure that your server meets th
 this application with the following requirements below: -
 
 🚀 PHP >= 7.2.5
+
 🚀 BCMath PHP Extension
+
 🚀 Ctype PHP Extension
+
 🚀 Fileinfo PHP extension
+
 🚀 JSON PHP Extension
+
 🚀 Mbstring PHP Extension
+
 🚀 OpenSSL PHP Extension
+
 🚀 PDO PHP Extension
+
 🚀 Tokenizer PHP Extension
+
 🚀 XML PHP Extension
 
 
@@ -57,6 +67,9 @@ FILES uSED IN FRAMEWORK
 -----------------------
 
 🚀 phonebook/routes/web.php
+
 🚀 phonebook/app/controllers/PhoneBookController.php
+
 🚀 phonebook/resources/views/master.blade.php
+
 🚀 phonebook/resources/views/list.blade.php
